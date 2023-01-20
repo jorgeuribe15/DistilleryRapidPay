@@ -1,0 +1,17 @@
+C:\Users\jorge\Documents\Distillery\Payments.Authentication\bin\Debug\net5.0\Payments.Authentication.deps.json
+C:\Users\jorge\Documents\Distillery\Payments.Authentication\bin\Debug\net5.0\Payments.Authentication.dll
+C:\Users\jorge\Documents\Distillery\Payments.Authentication\bin\Debug\net5.0\ref\Payments.Authentication.dll
+C:\Users\jorge\Documents\Distillery\Payments.Authentication\bin\Debug\net5.0\Payments.Authentication.pdb
+C:\Users\jorge\Documents\Distillery\Payments.Authentication\bin\Debug\net5.0\Payments.Data.dll
+C:\Users\jorge\Documents\Distillery\Payments.Authentication\bin\Debug\net5.0\Payments.Service.dll
+C:\Users\jorge\Documents\Distillery\Payments.Authentication\bin\Debug\net5.0\Payments.Data.pdb
+C:\Users\jorge\Documents\Distillery\Payments.Authentication\bin\Debug\net5.0\Payments.Service.pdb
+C:\Users\jorge\Documents\Distillery\Payments.Authentication\obj\Debug\net5.0\Payments.Authentication.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\Distillery\Payments.Authentication\obj\Debug\net5.0\Payments.Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\Documents\Distillery\Payments.Authentication\obj\Debug\net5.0\Payments.Authentication.AssemblyInfoInputs.cache
+C:\Users\jorge\Documents\Distillery\Payments.Authentication\obj\Debug\net5.0\Payments.Authentication.AssemblyInfo.cs
+C:\Users\jorge\Documents\Distillery\Payments.Authentication\obj\Debug\net5.0\Payments.Authentication.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\Distillery\Payments.Authentication\obj\Debug\net5.0\Payments.Authentication.csproj.CopyComplete
+C:\Users\jorge\Documents\Distillery\Payments.Authentication\obj\Debug\net5.0\Payments.Authentication.dll
+C:\Users\jorge\Documents\Distillery\Payments.Authentication\obj\Debug\net5.0\ref\Payments.Authentication.dll
+C:\Users\jorge\Documents\Distillery\Payments.Authentication\obj\Debug\net5.0\Payments.Authentication.pdb

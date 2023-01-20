@@ -1,0 +1,12 @@
+C:\Users\jorge\Documents\Distillery\Payments.Service\bin\Debug\net5.0\Payments.Service.deps.json
+C:\Users\jorge\Documents\Distillery\Payments.Service\bin\Debug\net5.0\Payments.Service.dll
+C:\Users\jorge\Documents\Distillery\Payments.Service\bin\Debug\net5.0\ref\Payments.Service.dll
+C:\Users\jorge\Documents\Distillery\Payments.Service\bin\Debug\net5.0\Payments.Service.pdb
+C:\Users\jorge\Documents\Distillery\Payments.Service\obj\Debug\net5.0\Payments.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\Documents\Distillery\Payments.Service\obj\Debug\net5.0\Payments.Service.AssemblyInfoInputs.cache
+C:\Users\jorge\Documents\Distillery\Payments.Service\obj\Debug\net5.0\Payments.Service.AssemblyInfo.cs
+C:\Users\jorge\Documents\Distillery\Payments.Service\obj\Debug\net5.0\Payments.Service.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\Distillery\Payments.Service\obj\Debug\net5.0\Payments.Service.dll
+C:\Users\jorge\Documents\Distillery\Payments.Service\obj\Debug\net5.0\ref\Payments.Service.dll
+C:\Users\jorge\Documents\Distillery\Payments.Service\obj\Debug\net5.0\Payments.Service.pdb
+C:\Users\jorge\Documents\Distillery\Payments.Service\obj\Debug\net5.0\Payments.Service.csproj.AssemblyReference.cache
